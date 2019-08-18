@@ -1,0 +1,38 @@
+{
+  "name": "ZonaTutor",
+  "short_name": "ZonaTutor",
+  "start_url": "https://www.zonatutor.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-SUL1oSgcycM/XViUuCgNAVI/AAAAAAAAAPA/jhV8hgPmRCcO3m-1vPSXhAxHxyqdETPRACLcBGAs/s48/ikon-zonatutor.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MKObPej-ZE4/XViUZorVzaI/AAAAAAAAAO4/cpMLavke9hsXlEBQOrnmPSv-lSdl7XDyACLcBGAs/s72/ikon-onatutor.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xZCH_5zoNfw/XViUIllaEPI/AAAAAAAAAOw/RUvVMFljtnoMyTVCEItFvtBhESp3QOg4wCLcBGAs/s96/ikon-zonatutor.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c2VPxoMi9rg/XViS2SJ4LWI/AAAAAAAAAOk/1wpt-kv79JosPjFK3PlymQgrWR2hRxsxACLcBGAs/s144/ikon-zonatutor.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4q8KThR_vqo/XViSAoMygWI/AAAAAAAAAOY/BaLb419EX1QwAnl-XZFQJbHuzM9Ih-WnACLcBGAs/s168/ikon-zonatutor.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DyboncoSB7U/XViQzW9mhQI/AAAAAAAAAOM/o5MXfDswGS4qc_2FmpZLqFkOikSUdP6EQCLcBGAs/s192/ikon-zonatutor.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vEdP7JGDMBw/XViPiOj8quI/AAAAAAAAAOA/SpcWNjAwk2I6gmeBoeBWlTUNdTRHApFBACLcBGAs/s512/ikon-zonatutor.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
